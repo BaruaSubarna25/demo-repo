@@ -6,3 +6,4 @@ commit -> save a file
 pull -> download a file
 git add . -> include all the files
 git status -> check file status
+git push -> push to git repo
