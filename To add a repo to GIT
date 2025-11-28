@@ -1,0 +1,27 @@
+# How to add a repo to Git From VSCode using CLI (Command Line Interface)
+1.Check where you are
+check your folder:
+pwd
+ls -a
+
+2.Initialize the repo
+Run this inside "Your folder":
+git init
+
+3.Add your files
+git add .
+
+4. Commit
+git commit -m "Initial commit"
+
+5. Connect to GitHub
+Go to GitHub, create an empty repo named (whatever you want), without adding a README or .gitignore.
+Then link your local folder to it:
+git remote add origin https://github.com/USERNAME/REPO.git
+Replace USERNAME and REPO.
+
+6. Push
+git push -u origin main
+
+If your branch isn’t named main, check with:
+git branch
