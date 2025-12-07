@@ -1,12 +1,12 @@
 md -> markdown
 # Git_commands
-cd -> change directory
-push -> to add a file/change
-commit -> save a file
-pull -> download a file
-git add . -> include all the files
-git status -> check file status
-git push -> push to git repo
+1. cd -> change directory
+2. push -> to add a file/change
+3. commit -> save a file
+4. pull -> download a file
+5. git add . -> include all the files
+6. git status -> check file status
+7. git push -> push to git repo
 
 # Creating a SSH Git key
 ✅ Step 1 — Create the .ssh directory
