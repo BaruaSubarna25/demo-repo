@@ -25,3 +25,13 @@ git push -u origin main
 
 If your branch isn’t named main, check with:
 git branch
+
+to save changes on github
+
+git add . 
+or
+go to source control, click on + icon
+then
+git commit -m "fdsfsf"
+then 
+git push
